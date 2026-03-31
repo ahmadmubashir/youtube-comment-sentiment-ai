@@ -26,8 +26,8 @@ This project analyzes YouTube video comments using NLP and generates AI-powered 
 - Pandas, Matplotlib
 
 ---
-
-## ⚙️ Installation
+#Run the App
+streamlit run app/streamlit_app.py
 
 ```bash
 pip install -r requirements.txt
